@@ -1,0 +1,13 @@
+# Bootstrap
+app/bootstrap*
+
+# Configuration files
+vendor/*
+*/logs/*
+*/cache/*
+web/uploads/*
+web/bundles/*
+
+
+# Configuration files
+app/config/parameters.yml
